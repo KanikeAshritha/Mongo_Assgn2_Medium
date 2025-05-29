@@ -1,24 +1,138 @@
-# Mongo_Assgn2_Medium
+# Mongo_Assgn_Medium
 <pre>
----------------------------Medium1----------------------------
 
-![mongo_medium1](https://github.com/user-attachments/assets/accf6914-31c8-4408-b373-4744e8419aa7)
+--------------Medium1--------------------
 
+{
+  _id: 'TechGlobe',
+  totalQuantity: 60
+}
+{
+  _id: 'GadgetPro',
+  totalQuantity: 125
+}
+{
+  _id: 'FashionHub',
+  totalQuantity: 280
+}
+{
+  _id: 'StyleCraft',
+  totalQuantity: 120
+}
+{
+  _id: 'ActiveLife',
+  totalQuantity: 90
+}
+{
+  _id: 'SoundWave',
+  totalQuantity: 60
+}
+{
+  _id: 'HomeBest',
+  totalQuantity: 30
+}
 
-  ![mongo_medium2](https://github.com/user-attachments/assets/edc19e46-17e6-44ae-8cd4-2f4ab1a67fd4)
+--------------Medium2--------------------
 
+{
+  _id: 'work',
+  averagePrice: 1200
+}
+{
+  _id: 'portable',
+  averagePrice: 493
+}
+{
+  _id: 'computer',
+  averagePrice: 433.3333333333333
+}
+{
+  _id: 'kitchen',
+  averagePrice: 250
+}
+{
+  _id: 'coffee',
+  averagePrice: 250
+}
+{
+  _id: 'appliance',
+  averagePrice: 250
+}
+{
+  _id: 'gadget',
+  averagePrice: 199
+}
+{
+  _id: 'wearable',
+  averagePrice: 199
+}
+{
+  _id: 'audio',
+  averagePrice: 80
+}
+{
+  _id: 'mechanical',
+  averagePrice: 75
+}
+{
+  _id: 'denim',
+  averagePrice: 60
+}
+{
+  _id: 'wireless',
+  averagePrice: 52.5
+}
+{
+  _id: 'peripheral',
+  averagePrice: 50
+}
+{
+  _id: 'fashion',
+  averagePrice: 45
+}
+{
+  _id: 'leather',
+  averagePrice: 45
+}
+{
+  _id: 'clothing',
+  averagePrice: 40
+}
+{
+  _id: 'exercise',
+  averagePrice: 30
+}
+{
+  _id: 'fitness',
+  averagePrice: 30
+}
+{
+  _id: 'cotton',
+  averagePrice: 20
+}
+{
+  _id: 'casual',
+  averagePrice: 20
+}
 
----------------------------Medium2----------------------------  
-
-![mongo_medium2i](https://github.com/user-attachments/assets/a586ff26-4b08-444d-98c5-d842b174a47a)
-![mongo_medium2ii](https://github.com/user-attachments/assets/000a0075-3e51-4fe7-89be-00ffc5561586)
-![mongo_medium2iii](https://github.com/user-attachments/assets/70a055e3-4e00-4400-9f94-850d8c2e42dd)
-![mongo_medium2iv](https://github.com/user-attachments/assets/41a9065a-182d-4655-8b19-321dc29b8e2b)
-
-
----------------------------Medium3---------------------------- 
+--------------Medium3--------------------
   
-![mongo_medium3](https://github.com/user-attachments/assets/fbe9f2af-22a7-4f56-9ffc-4911956aa8f3)
+{
+  name: 'Wireless Mouse',
+  category: 'Electronics',
+  formattedDateAdded: '2023-02-01'
+}
+{
+  name: 'Espresso Machine',
+  category: 'Home Goods',
+  formattedDateAdded: '2023-02-15'
+}
+{
+  name: 'Bluetooth Speaker',
+  category: 'Electronics',
+  formattedDateAdded: '2023-02-25'
+}
+
 
 
 </pre>
