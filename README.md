@@ -2,7 +2,9 @@
 <pre>
 ---------------------------Medium1----------------------------
 
-  ![mongo_medium1](https://github.com/user-attachments/assets/ec092ff2-ace9-4041-bf9e-7dcee8c2e6f4)
+![mongo_medium1](https://github.com/user-attachments/assets/accf6914-31c8-4408-b373-4744e8419aa7)
+
+
   ![mongo_medium2](https://github.com/user-attachments/assets/edc19e46-17e6-44ae-8cd4-2f4ab1a67fd4)
 
 
